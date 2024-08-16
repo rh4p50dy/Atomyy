@@ -8,7 +8,7 @@ function Highlights() {
             <InfoSection icon="/icons/energy-saving.png" number="50-100 MW" description="POWER GENERATION"/>
             <InfoSection icon="/icons/lifespan.png" number="40-60 Yrs" description="LIFESPAN"/>
             <InfoSection icon="/icons/household.png" number="+65700" description="HOUSEHEOLDS"/>
-            <InfoSection number="+Millions $" description="SAVINGS"/>
+            <InfoSection icon="/icons/chart.png" number="+Millions $" description="SAVINGS"/>
         </div>
     </div>
   )
