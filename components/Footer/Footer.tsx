@@ -5,7 +5,7 @@ import Link from "next/link";
 import MobileQuickLink from "./MobileQuickLink";
 import QuickLink from "./QuickLink";
 
-function Footer(): JSX.Element {
+function Footer() {
   const [isClient, setIsClient] = useState(false);
   const [windowWidth, setWindowWidth] = useState(0);
 
