@@ -1,12 +1,11 @@
 "use client";
 
-import React from "react";
 import {
   GoogleGenerativeAI,
   HarmCategory,
   HarmBlockThreshold,
 } from "@google/generative-ai";
-import { useState } from "react";
+import React, { useState } from "react";
 import Conversation from "./Conversation";
 
 
